@@ -9,4 +9,7 @@ https://github.com/strongga/part01-Home-work
 
 home project
 22/06/2023
+STP
+Finis test2206
+
 https://github.com/strongga/str_2206
